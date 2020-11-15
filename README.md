@@ -1,5 +1,3 @@
 # myrepo
 
 some code
-
-parallelization
