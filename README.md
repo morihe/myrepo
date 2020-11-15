@@ -3,5 +3,3 @@
 some code
 
 A
-B
-C
