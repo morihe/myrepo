@@ -5,5 +5,3 @@ more basic work
 
 A
 B
-
-parallelization
